@@ -9,3 +9,4 @@
 ## Termos
 
 - *SVG* Scalable Vector Graphics `vetorial`
+- *GIF* Graphics Interchange Format `bitmap`
